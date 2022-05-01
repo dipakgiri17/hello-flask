@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-content: center;
+    padding: 5%;
+    background: rgb(255, 176, 59);
+    color: black;
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+div {
+    text-shadow: 1px 1px 3px rgb(255, 255, 125);
+}
