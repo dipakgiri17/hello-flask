@@ -63,3 +63,5 @@ then install required libraries(eg flask) and create a package file.
 2. then install required libraries(eg flask) and create a package file.
 
 3. create requirements.txt file `pip freeze > requirements.txt`
+
+4. `npx vercel --prod`
