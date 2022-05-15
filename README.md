@@ -42,6 +42,12 @@ then install required libraries(eg flask) and create a package file.
 
 `pip freeze > requirements.txt`
 
+## Set up Vercel account
+
+- create a vercel account https://vercel.com/signup
+- login to your vercel account from cli `npx vercel login`
+- now the project is ready to [Deploy to vercel](#deploy-to-vercel) using `npx vercel --prod`
+
 ## <span id="deploy-to-vercel">Deploy to vercel</span>
 
 1. create a vercel.json file with following content
